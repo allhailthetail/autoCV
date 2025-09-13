@@ -1,0 +1,6 @@
+# Ignore generated files from resume generation:
+cv.aux
+cv.bcf
+cv.log
+cv.out
+cv.run.xml
